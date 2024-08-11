@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: AJ
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Alexander Jefferson
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Alexander
+last_name: Jefferson
 
 # Status emoji
-status:
-  icon: ☕️
+status: ''
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,25 +20,25 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Honors Student @ Lone Star College
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Lone Star College
+    url: https://lonestar.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:alexanjefferson@my.lonestar.edu'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/alexanderjefferson
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
