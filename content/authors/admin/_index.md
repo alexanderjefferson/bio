@@ -88,8 +88,8 @@ education:
     date_start: 2019-08-01
     date_end: 2023-05-31
     summary: |
-      Summa Cum Laude
-            
+      GPA: 5.4/6.0
+
       Courses included:
       - AP Physics
       - AP Computer Science 
