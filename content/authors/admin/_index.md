@@ -159,12 +159,10 @@ Organizations:
   - name: NASA Community College Aerospace Scholars (NCAS)
     description: ''
   - name: Miscellaneous Memberships
-      - name: Association of Environmental and Engineering Geologists (AEG)
-        description: ''
-      - name: American Geophysical Union (AGU)
-        description: ''
-      - name: Geological Society of America (GSA)
-        description: ''
+    description:
+     - Association of Environmental and Engineering Geologists (AEG)
+     - American Geophysical Union (AGU)
+     - Geological Society of America (GSA)
 
 
 # Awards.
