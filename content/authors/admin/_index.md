@@ -1,6 +1,6 @@
 ---
 # Display name
-title: AJ
+title: "AJ"
 
 # Name pronunciation (optional)
 name_pronunciation: Alexander Jefferson
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Honors Student @ Lone Star College
+role: Honors Engineering Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -33,23 +33,23 @@ profiles:
   - icon: at-symbol
     url: 'mailto:alexanjefferson@my.lonestar.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+ # - icon: brands/x
+ #   url: https://twitter.com/GetResearchDev
+ # - icon: brands/instagram
+ #   url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/alexanderjefferson
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/alexander-jefferson-68271b235/
+ # - icon: academicons/google-scholar
+ #   url: https://scholar.google.com/
+ # - icon: academicons/orcid
+ #   url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Wastewater and Water treatment
+  - Computational Fluid Dynamics
+  - Clean Energy Development
 
 education:
   - area: PhD Artificial Intelligence
