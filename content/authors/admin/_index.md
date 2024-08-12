@@ -88,9 +88,8 @@ education:
     date_start: 2019-08-01
     date_end: 2023-05-31
     summary: |
-      GPA: 5.41/6.0
-      Rank: 12/865 (Summa Cum Laude)
-      
+      Summa Cum Laude
+            
       Courses included:
       - AP Physics
       - AP Computer Science 
