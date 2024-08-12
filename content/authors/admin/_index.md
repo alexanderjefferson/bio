@@ -135,7 +135,7 @@ skills:
       - name: Weightlifting
         description: ''
         percent: 80
-        icon: dumbbell
+        icon: dumbbell.svg
       - name: Music
         description: ''
         percent: 60
