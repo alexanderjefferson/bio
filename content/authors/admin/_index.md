@@ -77,7 +77,7 @@ education:
     date_start: 2023-08-01
     date_end: 2025-05-31
     summary: |
-      GPA: 3.95/4.0
+      GPA: 3.94/4.0
       
       Courses included:
       - Honors Environmental and Physical Geology
