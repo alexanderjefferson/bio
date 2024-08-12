@@ -123,7 +123,7 @@ skills:
       - name: C++
         description: ''
         percent: 20
-        icon: circle-stack
+        icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
