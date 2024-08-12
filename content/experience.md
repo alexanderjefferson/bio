@@ -28,10 +28,6 @@ sections:
  #   content:
  #     title: Awards
  #     username: admin
-  - block: resume-extra-involvements
-    content:
-      title: Extra Involvements
-      username: admin
   - block: resume-languages
     content:
       title: Languages
