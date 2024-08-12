@@ -131,15 +131,15 @@ skills:
       - name: American Football
         description: ''
         percent: 100
-        icon: person-simple-walk
+        icon: football
       - name: Weightlifting
         description: ''
         percent: 80
-        icon: cat
+        icon: dumbbell
       - name: Music
         description: ''
         percent: 60
-        icon: camera
+        icon: headphones
 
 languages:
   - name: English
