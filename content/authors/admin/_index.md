@@ -150,22 +150,6 @@ languages:
   - name: Korean
     percent: 10
 
-Extra Involvements:
-  - name: Honors College Leadership Program (HCLP)
-    description: ''
-  - name: National Model United Nations (NMUN)
-    description: ''
-  - name: Phi Theta Kappa (PTK)
-    description: ''
-  - name: NASA Community College Aerospace Scholars (NCAS)
-    description: ''
-  - name: Miscellaneous Memberships
-    description:
-     - Association of Environmental and Engineering Geologists (AEG)
-     - American Geophysical Union (AGU)
-     - Geological Society of America (GSA)
-
-
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
