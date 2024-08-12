@@ -139,7 +139,7 @@ skills:
       - name: Music
         description: ''
         percent: 60
-        icon: headphones
+        icon: music
 
 languages:
   - name: English
