@@ -83,6 +83,18 @@ education:
       - Honors Environmental and Physical Geology
       - Calculus I, II, and III, Chem I and II
       - Honors Physics I and II, Honors Speech
+  - area: High School Diploma
+    institution: Klein Collins High School
+    date_start: 2019-08-01
+    date_end: 2023-05-31
+    summary: |
+      GPA: 5.41/6.0
+      Rank: 12/865 (Summa Cum Laude)
+      
+      Courses included:
+      - AP Physics
+      - AP Computer Science 
+      - AP Calculus      
 work:
   - position: Academic Peer Coach
     company_name: Lone Star College-University Park
