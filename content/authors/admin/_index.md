@@ -131,15 +131,15 @@ skills:
       - name: American Football
         description: ''
         percent: 100
-        icon: football
+       # icon: football
       - name: Weightlifting
         description: ''
         percent: 80
-        filename: dumbbell.svg
+       # filename: dumbbell.svg
       - name: Music
         description: ''
         percent: 60
-        icon: music
+       # icon: music
 
 languages:
   - name: English
