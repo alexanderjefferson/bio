@@ -149,7 +149,8 @@ languages:
     percent: 35
   - name: Korean
     percent: 10
-Organizations:
+
+Extra Involvements:
   - name: Honors College Leadership Program (HCLP)
     description: ''
   - name: National Model United Nations (NMUN)
