@@ -88,24 +88,25 @@ work:
     company_name: GenCoin
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-08-01
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+  - position: Research Intern
+    company_name: Texas A&M University
+    company_url: 'https:/tam.edu'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-05-01
+    date_end: 2020-08-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+       Responsibilities include:
+        -Investigated the impact of nutrients (e.g., nitrogen, phosphorus), organic carbon, and flow rates on biofilm growth
+        -Utilized high-fidelity Computational Fluid Dynamics (CFD) simulations using a modified solver, bioGroutFoam in OpenFOAM
+        -Presented research findings at program meetings, an undergraduate symposium, and AGU's 2024 annual meeting
+        -Intended to offer strategies to optimize the role of biofilms in nutrient cycling and water quality
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
