@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alexander Jefferson
+title: Alexander "AJ" Jefferson
 
 # Name pronunciation (optional)
 name_pronunciation: ''
