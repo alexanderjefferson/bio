@@ -84,9 +84,9 @@ education:
       - Calculus I, II, and III, Chem I and II
       - Honors Physics I and II, Honors Speech
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Academic Peer Coach
+    company_name: Lone Star College-University Park
+    company_url: 'https://lonestar.edu'
     company_logo: ''
     date_start: 2024-08-01
     date_end: ''
@@ -100,13 +100,13 @@ work:
     company_url: 'https:/tam.edu'
     company_logo: ''
     date_start: 2024-05-01
-    date_end: 2020-08-31
+    date_end: 2024-08-31
     summary: |
        Responsibilities include:
-        -Investigated the impact of nutrients (e.g., nitrogen, phosphorus), organic carbon, and flow rates on biofilm growth
-        -Utilized high-fidelity Computational Fluid Dynamics (CFD) simulations using a modified solver, bioGroutFoam in OpenFOAM
-        -Presented research findings at program meetings, an undergraduate symposium, and AGU's 2024 annual meeting
-        -Intended to offer strategies to optimize the role of biofilms in nutrient cycling and water quality
+       - Investigated the impact of nutrients (e.g., nitrogen, phosphorus), organic carbon, and flow rates on biofilm growth
+       - Utilized high-fidelity Computational Fluid Dynamics (CFD) simulations using a modified solver, bioGroutFoam in OpenFOAM
+       - Presented research findings at program meetings, an undergraduate symposium, and AGU's 2024 annual meeting
+       - Intended to offer strategies to optimize the role of biofilms in nutrient cycling and water quality
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
