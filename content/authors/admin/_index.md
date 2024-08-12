@@ -1,9 +1,9 @@
 ---
 # Display name
-title: ''
+title: Alexander Jefferson
 
 # Name pronunciation (optional)
-name_pronunciation: Alexander Jefferson
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Alexander
@@ -112,42 +112,42 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: OpenFOAM
+        description: ''
+        percent: 75
+        icon: code-bracket
+      - name: Data Analysis
         description: ''
         percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: C++
         description: ''
-        percent: 40
+        percent: 20
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: American Football
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: person-simple-walk
+      - name: Weightlifting
         description: ''
         percent: 80
+        icon: cat
+      - name: Music
+        description: ''
+        percent: 60
         icon: camera
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Spanish
+    percent: 35
+  - name: Korean
+    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Alexander Jefferson is a honors student at Lone Star College-University Park. His research and career interests include clean energy development and water treatment. He is the Public Relations Coordinator for the Honors College Leadership program and competes for LSC's National Model United Nations team. He is currently looking to transfer to a 4-year university to pursue a chemical engineering degree.
