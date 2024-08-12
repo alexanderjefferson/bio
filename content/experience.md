@@ -28,7 +28,7 @@ sections:
  #   content:
  #     title: Awards
  #     username: admin
-  - block: resume-si
+  - block: resume-extra-involvements
     content:
       title: Extra Involvements
       username: admin
