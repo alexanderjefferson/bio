@@ -1,15 +1,14 @@
 ---
-title: 📈 Communicate your results effectively with the best data visualizations
-summary: Use popular tools such as Plotly, Mermaid, and data frames.
-date: 2023-10-25
+title: Representing the Philippines
+summary: Competing at the National Model United Nations 2024 conference
+date: 2023-03-28
 authors:
   - admin
 tags:
-  - Hugo
-  - Hugo Blox
-  - Markdown
+  - Travel
+  - Competition
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: Jesus (Maldives) from Venezuela and I (Philippines) holding up our delegation flags.
 ---
 
 Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.
