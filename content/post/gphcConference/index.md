@@ -1,6 +1,6 @@
 ---
-title: GPHC 2024 Conference
-summary: Intersecting the Borders!
+title: 📣 Presenting at GPHC's 2024 Conference
+summary: Intersecting Regional State Borders in Stillwater, Oklahoma (Oklahoma State University)
 date: 2024-03-23
 authors:
   - admin
