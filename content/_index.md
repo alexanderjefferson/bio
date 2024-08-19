@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        So far I have mainly conducted undergraduate research with the geology department at Lone Star College. Most recently, I conducted a project that encompassed computation and chemistry. I look forward to pursuing more projects including computational chemistry.
+        I have primarily conducted undergraduate research with the geology department at Lone Star College. My recent project bridged computational methods and chemistry, sparking my interest in further exploring the field of computational chemistry. I'm eager to pursue more projects that combine these disciplines.
         
         Please reach out to collaborate or with and ideas for oppurtunity! 😃
     design:
