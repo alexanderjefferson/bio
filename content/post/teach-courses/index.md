@@ -19,10 +19,22 @@ This research examines water quality in the Spearford Gully, a tributary of Cypr
 
 ## Quick Main Points
 
-Study Focus: Investigated water quality in Spearford Gully before a 2023 drought.
-Key Indicators: Chlorophyll α and turbidity were notably affected by pre-drought conditions.
-Implications: Pre-drought surface water may need extensive treatment to meet EPA guidelines.
-Recommendation: Earlier implementation of water and power usage restrictions to reduce treatment costs.
+**Study Focus**
+
+Investigated water quality in Spearford Gully before a 2023 drought.
+
+**Key Indicators**
+
+Chlorophyll α and turbidity were notably affected by pre-drought conditions.
+
+**Implications**
+
+Pre-drought surface water may need extensive treatment to meet EPA guidelines.
+
+**Recommendation**
+
+Earlier implementation of water and power usage restrictions to reduce treatment costs.
 
 **Moving Forward**
+
 I am honored to be selected to present at the 2024 Great Plains Honors Council Conference at Oklahoma State University. I look forward to connecting with peers from across the region and learning from their impressive research. I am committed to preparing a presentation that not only meets but exceeds expectations, ensuring that the audience gains a clear and engaging understanding of my work.
