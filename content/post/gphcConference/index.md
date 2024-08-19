@@ -42,6 +42,6 @@ Pre-drought surface water may need extensive treatment to meet EPA guidelines.
 
 Earlier implementation of water and power usage restrictions to reduce treatment costs.
 
-**Reflection**
+## Reflection
 
 I'm grateful for the opportunity to present my research, not only to my institution but also to esteemed students from other institutions. I look forward to any future opportunities to share this work again.
