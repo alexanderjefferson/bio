@@ -195,4 +195,4 @@ languages:
 
 ## About Me
 
-Alexander Jefferson is a honors student at Lone Star College-University Park. His research and career interests include clean energy development and water treatment. He is the Public Relations Coordinator for the Honors College Leadership program and competes for LSC's National Model United Nations team. He is currently looking to transfer to a 4-year university to pursue a chemical engineering degree.
+Alexander Jefferson is a second-year honors student at Lone Star College-University Park. His research and career interests include clean energy development and water treatment. He is the Public Relations Coordinator for the Honors College Leadership program and competes for LSC's National Model United Nations team. He is currently looking to transfer to a 4-year university for the Fall 2025 semester to pursue a chemical engineering degree.
