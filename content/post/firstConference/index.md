@@ -1,6 +1,6 @@
 ---
-title: My First Research Presentation
-summary: Unraveling Pre-Drought Water Quality using the Spearford Gully, Houston, Texas
+title: 🎉 Presenting at HURD Fall 2023!
+summary: Unraveling Pre-Drought Water Quality (e.g. Chlorophyll α, Turbity, Specific Conductivity) using the Spearford Gully, Houston, Texas
 date: 2023-12-08
 math: true
 authors:
