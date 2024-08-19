@@ -11,7 +11,7 @@ tags:
 image:
   caption: 'Example slide from my Oral Presentation'
 ---
-## Event Details:
+## Event Details
 
 Honors Undergraduate Research Day (HURD), December 8th at Lone Star College-University Park
 
