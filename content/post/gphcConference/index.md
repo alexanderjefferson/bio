@@ -15,7 +15,7 @@ image:
 
 A lot of the information here is going to be the same because I presented the same research at this conference as the previous conference. Nevertheless, enjoy!
 
-## Event Details:
+## Event Details
 
 Great Plains Honors Council (GPHC) 2024 Conference, March 23rd at Oklahoma State University in Stillwater, OK
 
