@@ -6,9 +6,8 @@ math: true
 authors:
   - admin
 tags:
-  - Hugo
-  - Hugo Blox Builder
-  - Markdown
+  - Research
+  - Geology
 image:
   caption: 'Example slide from my Oral Presentation'
 ---
