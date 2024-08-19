@@ -19,120 +19,28 @@ Create a powerful knowledge base that works on top of a local folder of plain te
 
 Use it as your second brain, either publicly sharing your knowledge with your peers via your website, or via a private GitHub repository and password-protected site just for yourself.
 
-## Mindmaps
+**Research Summary**
 
-Hugo Blox supports a Markdown extension for mindmaps.
+This research examines water quality in the Spearford Gully, a tributary of Cypress Creek, before a significant drought in the summer of 2023. The study found that pre-drought conditions led to a decline in water quality, particularly in chlorophyll α and turbidity levels, which were sensitive to the onset of drought. These findings suggest that pre-drought surface water may require significant treatment to meet EPA guidelines and that earlier water usage restrictions could help manage the increased costs of such treatment.
 
-With this open format, can even edit your mindmaps in other popular tools such as Obsidian.
+## Quick Main Points
 
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
+**Study Focus**
 
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
+Investigated water quality in Spearford Gully before a 2023 drought.
 
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-</code>
-</pre>
-</div>
+**Key Indicators**
 
-renders as
+Chlorophyll α and turbidity were notably affected by pre-drought conditions.
 
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
+**Implications**
 
-Anh here's a more advanced mindmap with formatting, code blocks, and math:
+Pre-drought surface water may need extensive treatment to meet EPA guidelines.
 
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log('hello');
-      console.log('code block');
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
-</code>
-</pre>
-</div>
+**Recommendation**
 
-renders as
+Earlier implementation of water and power usage restrictions to reduce treatment costs.
 
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log('hello');
-      console.log('code block');
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
+**Moving Forward**
 
-## Highlighting
-
-<mark>Highlight</mark> important text with `mark`:
-
-```html
-<mark>Highlighted text</mark>
-```
-
-## Callouts
-
-Use [callouts](https://docs.hugoblox.com/reference/markdown/#callouts) (aka _asides_, _hints_, or _alerts_) to draw attention to notes, tips, and warnings.
-
-By wrapping a paragraph in `{{%/* callout note */%}} ... {{%/* /callout */%}}`, it will render as an aside.
-
-```markdown
-{{%/* callout note */%}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{%/* /callout */%}}
-```
-
-renders as
-
-{{% callout note %}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /callout %}}
-
-Or use the `warning` callout type so your readers don't miss critical details:
-
-{{% callout warning %}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /callout %}}
-
-## Did you find this page helpful? Consider sharing it 🙌
+I am honored to be selected to present at the 2024 Great Plains Honors Council Conference at Oklahoma State University. I look forward to connecting with peers from across the region and learning from their impressive research. I am committed to preparing a presentation that not only meets but exceeds expectations, ensuring that the audience gains a clear and engaging understanding of my work.
