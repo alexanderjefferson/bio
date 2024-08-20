@@ -9,7 +9,7 @@ tags:
   - Geology
   - Travel
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: Oklahoma State University Campus
 ---
 
 **Quick Disclaimer**
