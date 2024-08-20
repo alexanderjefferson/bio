@@ -49,4 +49,4 @@ I am honored to be selected to present at the 2024 Great Plains Honors Council C
 
 ## Podcast
   
- ![alt](/images/nmunOne.jpeg)
+ ![alt](../../../static/images/nmunOne.jpeg)
