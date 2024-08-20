@@ -45,8 +45,8 @@ I am honored to be selected to present at the 2024 Great Plains Honors Council C
 
 [comment]: Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
 
-    {{</* image src="nmunOne.jpeg" controls="yes" */>}}
+    {{</* img src="nmunOne.jpeg" controls="yes" */>}}
 
 ## Podcast
   
-   {{</* image src="nmunOne.jpeg" controls="yes" */>}}
+   {{</* img src="nmunOne.jpeg" controls="yes" */>}}
