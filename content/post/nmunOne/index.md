@@ -1,7 +1,7 @@
 ---
 title: Representing the Philippines
 summary: Competing at the National Model United Nations 2024 conference
-date: 2023-03-28
+date: 2024-03-28
 authors:
   - admin
 tags:
