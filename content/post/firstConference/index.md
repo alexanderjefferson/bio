@@ -48,11 +48,4 @@ I am honored to be selected to present at the 2024 Great Plains Honors Council C
     {{</* video src="my_video.mp4" controls="yes" */>}}
 
 ## Podcast
-
-You can add a podcast or music to a page by placing the MP3 file in the page's folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
-
-    {{</* audio src="ambient-piano.mp3" */>}}
-
-Try it out:
-
-{{< audio src="ambient-piano.mp3" >}}
+  {{</* image src="nmunOne.jpeg" controls="yes" */>}}
