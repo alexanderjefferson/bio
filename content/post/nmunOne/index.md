@@ -1,5 +1,5 @@
 ---
-title: Representing the Philippines
+title: 🇵🇭 Representing the Philippines
 summary: Competing at the National Model United Nations 2024 conference
 date: 2024-03-28
 authors:
@@ -14,7 +14,7 @@ image:
 Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.
 
 Use popular tools such as Plotly, Mermaid, and data frames.
-
+![alt](nmunOne.jpeg)
 ## Charts
 
 Hugo Blox supports the popular [Plotly](https://plot.ly/) format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!
