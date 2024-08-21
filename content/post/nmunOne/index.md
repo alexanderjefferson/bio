@@ -11,146 +11,35 @@ image:
   caption: Me with Jesus, a Maldivian delgate.
 ---
 
-Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.
+## Event Details
 
-Use popular tools such as Plotly, Mermaid, and data frames.
-![alt](nmunOne.jpeg)
-## Charts
+National Model United Nations (NMUN) 2024 Conference, March 24th-29th in New York City, NY
 
-Hugo Blox supports the popular [Plotly](https://plot.ly/) format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!
+**Background**
 
-Save your Plotly JSON in your page folder, for example `line-chart.json`, and then add the `{{</* chart data="line-chart" */>}}` shortcode where you would like the chart to appear.
+The NMUN team is composed entirely of honors students from across the Lone Star College system. Our delegation, representing both Survival International and the Philippines, included 30 students from various campuses. In preparation for the conference, we met weekly for four hours to strategize and research our organizations' standpoints. A highlight of our pre-conference preparation was the NMUN retreat in Galveston, where we bonded over games of Mafia and delivered preliminary speeches.
 
-Demo:
+My partner Andy and I were assigned to the Economic and Social Commission for Asia and the Pacific (ESCAP), where we researched two key issues: the expanding risk landscape in Asia and the Pacific, and promoting a healthy, protected regional workforce. I couldn’t have asked for a better partner as we excelled in our collaboration.
 
-{{< chart data="line-chart" >}}
+{{< figure src="nmunOne.jpeg" caption="University Park students on the NMUN team" >}}
 
-You might also find the [Plotly JSON Editor](http://plotly-json-editor.getforge.io/) useful.
+## The Conference
 
-## Diagrams
+**Initial Difficulties**
 
-Hugo Blox supports the _Mermaid_ Markdown extension for diagrams.
+Sixty percent of the schools attending this conference are international, which initially made communication challenging due to the diversity of cultures. However, our group successfully overcame this obstacle, and in the process, I developed valuable intercultural competency skills.
 
-An example **flowchart**:
+{{< figure src="nmunThree.jpeg" caption="Group of delegates I worked with in the ESCAP Committee" >}}
 
-    ```mermaid
-    graph TD
-    A[Hard] -->|Text| B(Round)
-    B --> C{Decision}
-    C -->|One| D[Result 1]
-    C -->|Two| E[Result 2]
-    ```
+## Aftermath
 
-renders as
+**Honors**
 
-```mermaid
-graph TD
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
-```
+Our team won the Outstanding Delegation Award for both our NGO, Survival International, and our country, the Philippines. This achievement reflects not only the dedication and hard work of our students but also the exceptional leadership of our mentors: Dr. Tiffee, Prof. Garcia, Prof. Lambert, and Dr. Howard.
 
-An example **sequence diagram**:
+{{< figure src="nmunThree.jpeg" caption="Triumph in the United Nations building" >}}
 
-    ```mermaid
-    sequenceDiagram
-    Alice->>John: Hello John, how are you?
-    loop Healthcheck
-        John->>John: Fight against hypochondria
-    end
-    Note right of John: Rational thoughts!
-    John-->>Alice: Great!
-    John->>Bob: How about you?
-    Bob-->>John: Jolly good!
-    ```
+**Reflection**
 
-renders as
 
-```mermaid
-sequenceDiagram
-Alice->>John: Hello John, how are you?
-loop Healthcheck
-    John->>John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John-->>Alice: Great!
-John->>Bob: How about you?
-Bob-->>John: Jolly good!
-```
 
-An example **class diagram**:
-
-    ```mermaid
-    classDiagram
-    Class01 <|-- AveryLongClass : Cool
-    Class03 *-- Class04
-    Class05 o-- Class06
-    Class07 .. Class08
-    Class09 --> C2 : Where am i?
-    Class09 --* C3
-    Class09 --|> Class07
-    Class07 : equals()
-    Class07 : Object[] elementData
-    Class01 : size()
-    Class01 : int chimp
-    Class01 : int gorilla
-    Class08 <--> C2: Cool label
-    ```
-
-renders as
-
-```mermaid
-classDiagram
-Class01 <|-- AveryLongClass : Cool
-Class03 *-- Class04
-Class05 o-- Class06
-Class07 .. Class08
-Class09 --> C2 : Where am i?
-Class09 --* C3
-Class09 --|> Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-Class08 <--> C2: Cool label
-```
-
-An example **state diagram**:
-
-    ```mermaid
-    stateDiagram
-    [*] --> Still
-    Still --> [*]
-    Still --> Moving
-    Moving --> Still
-    Moving --> Crash
-    Crash --> [*]
-    ```
-
-renders as
-
-```mermaid
-stateDiagram
-[*] --> Still
-Still --> [*]
-Still --> Moving
-Moving --> Still
-Moving --> Crash
-Crash --> [*]
-```
-
-## Data Frames
-
-Save your spreadsheet as a CSV file in your page's folder and then render it by adding the _Table_ shortcode to your page:
-
-```go
-{{</* table path="results.csv" header="true" caption="Table 1: My results" */>}}
-```
-
-renders as
-
-{{< table path="results.csv" header="true" caption="Table 1: My results" >}}
-
-## Did you find this page helpful? Consider sharing it 🙌
