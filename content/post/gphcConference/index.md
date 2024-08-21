@@ -27,6 +27,9 @@ This research examines water quality in the Spearford Gully, a tributary of Cypr
 ![alt](gphc.jpg)
 *A quick morning lift before presenting
 
+{{< figure src="gphc.jpg" caption="A beautiful sunrise over the mountains." >}}
+
+
 ## Quick Main Points
 
 **Study Focus**
