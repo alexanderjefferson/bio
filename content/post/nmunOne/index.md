@@ -13,7 +13,7 @@ image:
 
 ## Event Details
 
-National Model United Nations (NMUN) 2024 Conference, March 24th-29th in New York City, NY
+National Model United Nations (NMUN) 2024 Conference, March 24th-28th in New York City, NY
 
 **Background**
 
