@@ -24,6 +24,9 @@ Great Plains Honors Council (GPHC) 2024 Conference, March 23rd at Oklahoma State
 
 This research examines water quality in the Spearford Gully, a tributary of Cypress Creek, before a significant drought in the summer of 2023. The study found that pre-drought conditions led to a decline in water quality, particularly in chlorophyll α and turbidity levels, which were sensitive to the onset of drought. These findings suggest that pre-drought surface water may require significant treatment to meet EPA guidelines and that earlier water usage restrictions could help manage the increased costs of such treatment.
 
+![alt](gphc.jpg)
+*A quick morning lift before presenting
+
 ## Quick Main Points
 
 **Study Focus**
