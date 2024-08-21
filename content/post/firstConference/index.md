@@ -41,12 +41,3 @@ Earlier implementation of water and power usage restrictions to reduce treatment
 
 I am honored to be selected to present at the 2024 Great Plains Honors Council Conference at Oklahoma State University. I look forward to connecting with peers from across the region and learning from their impressive research. I am committed to preparing a presentation that not only meets but exceeds expectations, ensuring that the audience gains a clear and engaging understanding of my work.
 
-[comment]: v
-
-[comment]: Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
-
-    {{</* image src="nmunOne.jpeg" controls="yes" */>}}
-
-## Podcast
-  
- ![alt](nmunOne.jpeg)
