@@ -1,13 +1,13 @@
 ---
 title: Computational Fluid Dynamics in Costa Rica
 date: 2024-08-01
-external_link: https://github.com/scikit-learn/scikit-learn
+external_link: https://github.com/alexanderjefferson/reuBiofilmOpenFoam
 tags:
   - CFD
   - Research
   - Travel
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+Explore how biofilm growth in streams is influenced by nutrient levels and flow rates using cutting-edge CFD simulations in OpenFOAM.
 
 <!--more-->
