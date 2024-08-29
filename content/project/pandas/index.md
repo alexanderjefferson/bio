@@ -1,12 +1,11 @@
 ---
 title: Water Quality Response to Pre-Drought
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+date: 2023-12-06
+external_link: 
 tags:
   - Geology
   - Research
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
-
+Discover how pre-drought conditions impact water quality in the Spearford Gully, Houston, using water collection data and analysis. Link is not usable yet. Working on it!
 <!--more-->
